@@ -104,6 +104,6 @@ After racking my brain and analyzing the dependency flows, I managed to map out 
 Desenvolvido com dedicação por **Pietro Costa Cardoso**.  
 Se este projeto te ajudou, considere dar uma ⭐ no repositório!
 
-Link original: https://github.com/PietroCostaCardoso/Architectures
+Link original: https://github.com/PietroCostaCardoso/Software-Architecture
 
 Pietro Costa Cardoso. Todos os direitos reservados sob a Licença MIT.
